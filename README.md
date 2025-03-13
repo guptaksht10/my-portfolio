@@ -6,14 +6,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-MERN-blue?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/AI-ML-orange?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Blockchain-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum" />
-  <img src="https://img.shields.io/badge/Open%20Source-💡-green?style=for-the-badge" />
-</p>
 
----
 
 ## 🏗 About Me  
 
@@ -36,10 +29,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 
-### 📱 Mobile & Blockchain  
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)  
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)  
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)  
 
 ---
 
@@ -67,17 +56,6 @@
 
 ---
 
-## 🏆 Competitive Programming  
-
-| Platform  | Rating  |
-|-----------|---------|
-| **LeetCode**  | 1670  |
-| **Codeforces**  | Pupil (1220)  |
-| **CodeChef**  | 3-star  |
-
-💻 **I actively participate in contests to enhance my problem-solving skills!**  
-
----
 
 ## 📊 GitHub Stats  
 
@@ -87,21 +65,3 @@
 </p>
 
 ---
-
-## 📫 Let's Connect  
-
-<p align="center">
-  <a href="https://github.com/your-github-username">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-💬 **Feel free to reach out for collaborations or tech discussions!** 🚀  
