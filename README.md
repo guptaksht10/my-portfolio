@@ -1,8 +1,3 @@
-# 🚀 Developer Portfolio  
-
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)  
-![GitHub Followers](https://img.shields.io/github/followers/your-github-username?style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/your-github-username?style=social)  
 
 ## 👋 About Me  
 Hi there! I'm a **Computer Science Engineering (CSE) student at Delhi Technological University (DTU)** passionate about **Blockchain, Machine Learning, and Full-Stack Development**. I love exploring cutting-edge technologies and solving real-world problems through innovative solutions.  
@@ -30,14 +25,6 @@ Hi there! I'm a **Computer Science Engineering (CSE) student at Delhi Technologi
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 
-### 📱 Mobile App Development  
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)  
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)  
-
-### 🔗 Blockchain  
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)  
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)  
-
 ### 🛠 Tools & Platforms  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
@@ -45,6 +32,12 @@ Hi there! I'm a **Computer Science Engineering (CSE) student at Delhi Technologi
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
 
 ---
+# 🚀 Developer Portfolio  
+
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)  
+![GitHub Followers](https://img.shields.io/github/followers/your-github-username?style=social)  
+![GitHub Stars](https://img.shields.io/github/stars/your-github-username?style=social)  
+
 
 ## 🏗️ Projects  
 
