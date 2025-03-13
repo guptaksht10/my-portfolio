@@ -46,18 +46,6 @@ Hi there! I'm a **Computer Science Engineering (CSE) student at Delhi Technologi
 
 ---
 
-## 🏆 Competitive Programming  
-
-| Platform  | Rating  |
-|-----------|---------|
-| **LeetCode**  | 1670  |
-| **Codeforces**  | Pupil (1220)  |
-| **CodeChef**  | 3-star  |
-
-🏅 **I enjoy problem-solving and actively participate in contests!**  
-
----
-
 ## 🏗️ Projects  
 
 ### 🔹 [Elevate Sphere](https://github.com/your-repo-link)  
@@ -95,7 +83,7 @@ A tool designed to assist doctors by providing quick access to patient history a
 
 ## 📫 Connect with Me  
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-github-username)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/guptaksht10)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
 
