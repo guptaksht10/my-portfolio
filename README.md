@@ -11,7 +11,7 @@
 ## 🏗 About Me  
 
 🚀 **CSE Student @ Delhi Technological University (DTU)**  
-🔗 **Full-Stack Developer | Blockchain Enthusiast | ML Learner**  
+🔗 **Full-Stack Developer | ML Learner**  
 🎯 **Bridging Technology with Real-World Solutions**  
 
 ---
