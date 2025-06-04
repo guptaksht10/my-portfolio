@@ -47,11 +47,11 @@ function App() {
               <Education/>
             </Wrapper>
             <Projects />
-            <Competitive/>
             <Wrapper>
               <Experience/>
-              <Contact/>
+              <Competitive/>
             </Wrapper>
+            <Contact/>
             <Footer/>
             </div>
         </Body>

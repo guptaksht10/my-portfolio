@@ -247,7 +247,7 @@ function Hero() {
                     </motion.div>
                     <HorizontalRuler><hr style={{ border: `1px solid ${theme.text_primary}90` }} /></HorizontalRuler>
                     <SubTitle>{Bio.description}</SubTitle>
-                    <ResumeButton href='https://drive.google.com/file/d/1b0WNwt5tNl5iNcQvoILeQbRZFXuWUw5r/view?usp=sharing' target='_blank'>Check Resume</ResumeButton>
+                    <ResumeButton href={Bio.resume} target='_blank'>View Resume</ResumeButton>
                 </HeroLeftContainer>
                 <HeroRightContainer>
                     <motion.div {...headContentAnimation}>
