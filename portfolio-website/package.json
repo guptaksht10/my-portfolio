@@ -30,7 +30,8 @@
     "styled-components": "^6.1.15",
     "three": "^0.173.0",
     "vertical-timeline-component-react": "^4.4.3",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "bootstrap": "^5.3.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -55,10 +56,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "overrides": {
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
   }
-
 }
